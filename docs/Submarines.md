@@ -16,6 +16,7 @@ Constructing Whale-bridge in the company workshop.
 ```
 Sub1    Sub2    Sub3    Sub4
 SSUS    SSUS    SSUS    SSUS
+130     128     123     118
 ```
 
 Currently exploring dawntrail regions (Lilac Sea, South Indigo Deep)
@@ -29,4 +30,23 @@ to maximise how many items you can get through each run. If just getting the ite
 stat.
 
 The table of items for getting rare items can be found [here](https://docs.google.com/spreadsheets/d/1eiuGRrQTjJ5n4ogybKOBxJRT7EiJLlX93fge-Z8MmD4/edit?gid=548933443#gid=548933443)
+
+## COCOBOLO LUMBER (SUB PROJ VI)
+
+needs 150 surveillance.
+
+[Use this](https://docs.google.com/spreadsheets/d/1-j0a-I7bQdjnXkplP9T4lOLPH2h3U_-gObxAiI4JtpA/edit?gid=559100029#gid=559100029) to work out what parts you need.
+
+For reference, our subs have 40 points into surveillance, from shark hull (-10), shark stern (-30), unkiu bow (60), shark bridge (20)
+
+upgrading to Whale bridge will give us: -20 from what we have (110 surveillance)
+
+we need an additional 20 surveillance which we can get from either the hull or the stern which have negative values. unkiu hull will give us +25 (15 - -10)
+
+the other option is either unkiu, whale, or coelacanth stern. 
+
+The other subs will require more than 20, the lowest level one needs 32 which of course we can't get from the hull, but stern could be option for the other subs
+
+subs need a current 125 surveillance if they are to have greater than 150 using the unkiu hull.
+
 
