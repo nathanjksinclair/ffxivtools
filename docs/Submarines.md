@@ -49,4 +49,9 @@ The other subs will require more than 20, the lowest level one needs 32 which of
 
 subs need a current 125 surveillance if they are to have greater than 150 using the unkiu hull.
 
+## Sub routes
+
+Here are the sub routes
+
+[Pepper's Guide](https://docs.google.com/document/d/1t2cC8-VuSNU2JLrvFFvr1S0-7NirnJiJ3k41UJ56jqE/edit?tab=t.0)
 
