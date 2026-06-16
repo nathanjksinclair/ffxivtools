@@ -57,6 +57,16 @@ Thanks to a kind ffxiv player we don't need cocobolo lumber so we can fast track
 
 This means being able to upgrade our ragtag fleet with fully decked out subs.
 
+What this means:
+
+- We're starting with decent submarines
+- We'll need to compile a list of all the parts that we'll be putting on our submarines.
+- I have a spreadsheet you can look at parts and build submarines 
+
+[Go here](https://docs.google.com/spreadsheets/d/14b7PYBBlqbiAV_pgYo-pKNDtuKPapQcc23RM3iLDaXg/edit?gid=559100029#gid=559100029)
+
+if you want access, just PM me, and then I can share you the file and give you edit access. Or you can copy it yourself and use your copy.
+
 
 
 ## Sub routes
