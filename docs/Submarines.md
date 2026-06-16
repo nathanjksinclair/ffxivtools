@@ -75,3 +75,18 @@ Here are the sub routes
 
 [Pepper's Guide](https://docs.google.com/document/d/1t2cC8-VuSNU2JLrvFFvr1S0-7NirnJiJ3k41UJ56jqE/edit?tab=t.0)
 
+## Dawntrail Sub routes
+
+There are 3 dawntrail subroutes. They were added in 7.1, 7.3 and 7.5
+
+If you look at the [Zones Information](https://docs.google.com/spreadsheets/d/1eiuGRrQTjJ5n4ogybKOBxJRT7EiJLlX93fge-Z8MmD4/edit) you'll notice the surveillance stat for these is really high. (under the optimal retrieval stat) 
+
+I figure that this is because they're planning on doing something for evercold. 
+
+So the three submarine routes are:
+1. Lilac Sea
+2. South Indigo Deep
+3. The Northern Empty
+
+I don't think you can get any info on Northern empty yet.
+Modified parts will be needed for the dawntrail routes. Referring to zones information, you can comfortably do lilac sea without modified parts. See the Tier 3 listing which lists High surveillance at 235.
