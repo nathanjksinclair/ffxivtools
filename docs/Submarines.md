@@ -47,7 +47,17 @@ the other option is either unkiu, whale, or coelacanth stern.
 
 The other subs will require more than 20, the lowest level one needs 32 which of course we can't get from the hull, but stern could be option for the other subs
 
+
+
 subs need a current 125 surveillance if they are to have greater than 150 using the unkiu hull.
+
+## Modified Parts
+
+Thanks to a kind ffxiv player we don't need cocobolo lumber so we can fast track to  modified parts now. 
+
+This means being able to upgrade our ragtag fleet with fully decked out subs.
+
+
 
 ## Sub routes
 
