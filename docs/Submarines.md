@@ -2,7 +2,7 @@
 
 Build Plan
 
-1. Upgrade all the current Submarines to SSUW
+1. Upgrade all the current Submarines to SSUW **(Done)**
 2. Acquire Submersible Project VI **(Done)**
 3. Upgrade all current Submarines for Salvage build
 4. Upgrade all current Submarines for Acquiring furniture and other items from Dawntrail/Evercold regions. **(Completing)**
