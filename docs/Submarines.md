@@ -2,10 +2,10 @@
 
 Build Plan
 
-1. Upgrade all the current Submarines to SSUW
-2. Acquire Submersible Project VI
+1. Upgrade all the current Submarines to SSUW **(Done)**
+2. Acquire Submersible Project VI **(Done)**
 3. Upgrade all current Submarines for Salvage build
-4. Upgrade all current Submarines for Acquiring furniture and other items from Dawntrail/Evercold regions.
+4. Upgrade all current Submarines for Acquiring furniture and other items from Dawntrail/Evercold regions. **(Completing)**
 
 ## Current condition of Subs
 
@@ -47,6 +47,46 @@ the other option is either unkiu, whale, or coelacanth stern.
 
 The other subs will require more than 20, the lowest level one needs 32 which of course we can't get from the hull, but stern could be option for the other subs
 
+
+
 subs need a current 125 surveillance if they are to have greater than 150 using the unkiu hull.
 
+## Modified Parts
 
+Thanks to a kind ffxiv player we don't need cocobolo lumber so we can fast track to  modified parts now. 
+
+This means being able to upgrade our ragtag fleet with fully decked out subs.
+
+What this means:
+
+- We're starting with decent submarines
+- We'll need to compile a list of all the parts that we'll be putting on our submarines.
+- I have a spreadsheet you can look at parts and build submarines 
+
+[Go here](https://docs.google.com/spreadsheets/d/14b7PYBBlqbiAV_pgYo-pKNDtuKPapQcc23RM3iLDaXg/edit?gid=559100029#gid=559100029)
+
+if you want access, just PM me, and then I can share you the file and give you edit access. Or you can copy it yourself and use your copy.
+
+
+
+## Sub routes
+
+Here are the sub routes
+
+[Pepper's Guide](https://docs.google.com/document/d/1t2cC8-VuSNU2JLrvFFvr1S0-7NirnJiJ3k41UJ56jqE/edit?tab=t.0)
+
+## Dawntrail Sub routes
+
+There are 3 dawntrail subroutes. They were added in 7.1, 7.3 and 7.5
+
+If you look at the [Zones Information](https://docs.google.com/spreadsheets/d/1eiuGRrQTjJ5n4ogybKOBxJRT7EiJLlX93fge-Z8MmD4/edit) you'll notice the surveillance stat for these is really high. (under the optimal retrieval stat) 
+
+I figure that this is because they're planning on doing something for evercold. 
+
+So the three submarine routes are:
+1. Lilac Sea
+2. South Indigo Deep
+3. The Northern Empty
+
+I don't think you can get any info on Northern empty yet.
+Modified parts will be needed for the dawntrail routes. Referring to zones information, you can comfortably do lilac sea without modified parts. See the Tier 3 listing which lists High surveillance at 235.
